@@ -1,0 +1,9 @@
+### Summary
+Num. frames:	11200 = 7045 unvoiced + 4155 voiced
+Unvoiced frames as voiced:	201/7045 (2.85 %)
+Voiced frames as unvoiced:	1198/4155 (28.83 %)
+Gross voiced errors (+20.00 %):	12/2957 (0.41 %)
+MSE of fine errors:	1.75 %
+
+===>	TOTAL:	84.09 %
+--------------------------
