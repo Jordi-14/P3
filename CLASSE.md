@@ -11,7 +11,7 @@ Hem compilat amb `make release` i hem passat les 50 gravacions amb `run_get_pitc
 | 0,5 | 5,71 % | 17,04 % | 0,75 % | **87,21 %** |
 | 0,6 | 2,85 % | 28,83 % | 0,41 % | **84,09 %** |
 
-El 0,5 reprodueix el resultat que es veu a la captura de classe. Amb 0,6 demanem una correlació més alta: marquem menys soroll com a sonor, però perdem més veu sonora. Per això baixa el TOTAL, tot i que baixen alguns errors.
+El 0,5 reprodueix el resultat que es veu a la captura de classe. Amb 0,6 demanem una correlació més alta: marquem menys blocs sords com a sonors, però perdem més blocs sonors. Per això baixa el TOTAL, tot i que baixen alguns errors.
 
 El codi es queda a **0,6**, com es veu a la captura de l’editor. El 0,5 s’ha provat en una còpia temporal, sense canviar la branca. Els `.f0` de `pitch_db/train` corresponen al codi actual amb 0,6.
 
